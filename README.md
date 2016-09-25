@@ -1,4 +1,4 @@
-The data for two editions of the Wilson Business Directories, 1852-1853, and 1861-1862.
+The data for two editions of the Wilson New York City Business Directories, 1852-1853, and 1861-1862.
 
 Processed using the [NYPL Digital Collections Tools](https://github.com/hadro/nypl-digital-collections-tools) repo. 
 
